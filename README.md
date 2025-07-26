@@ -1,16 +1,30 @@
-# notesapp
+ Notes App
 
-A new Flutter project.
+A simple notes app built using Flutter and Provider. Users can create, edit, and delete notes. Includes a calendar view.
 
-## Getting Started
+ Features
+- Create & delete notes
+- Calendar integration
+- Local storage
+- Beautiful UI with Google Fonts
+- Theme change option Light & Dark
 
-This project is a starting point for a Flutter application.
+ Technologies
+- Flutter
+- Provider
+- SharedPreferences
 
-A few resources to get you started if this is your first Flutter project:
+ Screenshots
+| Home Screen | Calendar View |
+|-------------|---------------|
+| ![](![homepage](https://github.com/user-attachments/assets/bb9185bc-7c0e-4489-8c18-21b8fc11e178)
+) | ![](![calanderpage](https://github.com/user-attachments/assets/ed3be293-a414-4c4f-9695-d14c86ad1c5b)
+) |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ Installation
+```bash
+git clone https://github.com/your-username/notes_app.git
+cd notes_app
+flutter pub get
+flutter run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

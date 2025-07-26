@@ -14,7 +14,7 @@ A simple notes app built using Flutter and Provider. Users can create, edit, and
 - Provider
 - SharedPreferences
 
-## 📸 Screenshots
+ Screenshots
 
 | Home Screen | Calendar View |
 |-------------|---------------|

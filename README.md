@@ -16,7 +16,7 @@ A simple notes app built using Flutter and Provider. Users can create, edit, and
 
  Screenshots
 
-| Home Screen | Calendar View |
+| Calendar View |Home Screen |
 |-------------|---------------|
 | ![Home](https://github.com/user-attachments/assets/bb9185bc-7c0e-4489-8c18-21b8fc11e178) | ![Calendar](https://github.com/user-attachments/assets/ed3be293-a414-4c4f-9695-d14c86ad1c5b) |
 
